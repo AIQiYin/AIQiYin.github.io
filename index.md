@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome 
+title: 半緣 
 ---
 {% include JB/setup %}
 

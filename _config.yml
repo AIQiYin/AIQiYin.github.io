@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 半缘 
+title : 願在木而為桐，作膝上之鳴琴 
 tagline: 
 author :
   name : 不青山 
   email : yafc18@gmail.com
   github : ningchi
   twitter : 0b101
-  feedburner : 
+  feedburner : ningchi 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
