@@ -109,7 +109,7 @@ __定期整理各个工作区__。里面的标签页，记录的记录，关闭�
 ##### 4 UI精简
 干净清减的信息呈现，能够最小化干扰。但是否值得花时间，花多少时间，不同人有不同的取舍。特别是有时会误落入美化的陷阱，费力不讨好。现在PC屏幕大，各款浏览器的简洁化，都做得不错了，所以UI是否需要再特别定制，视个人喜欢吧。
 
-我使用 [Pentactyl](http://5digits.org/nightlies) 去除了绝大多数界面要素。    
+我使用 [Pentadactyl](http://5digits.org/nightlies) 去除了绝大多数界面要素。    
 
 <img src="{{ site.url }}/assets/images/img_20130903_210000.jpg" align="middle" width="600" height="300"/>
 
