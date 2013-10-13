@@ -4,11 +4,16 @@ title: 半緣
 ---
 {% include JB/setup %}
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 7 %}
     <li style="padding:5px 0;">
         <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+
+    <li style="padding:5px 0;">
+        <a href="{{ site.url }}/archive.html"> ..... more ..... <a>
+    </li>
 </ul>
+
 
 
