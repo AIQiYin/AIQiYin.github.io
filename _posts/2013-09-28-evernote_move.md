@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-Evernote PC大改版后，界面的确清减简洁许多，重点突出了笔记本身，而弱化了分类。于是，在涉及到笔记转移、文件夹跳转的操作，开始觉得很不便利。好在软件本身提供了较多操作，渐渐找到窍门，整理几点分享。
+[Evernote](https://www.evernote.com/referral/Registration.action?uid=5188615&sig=127d1b9803bbb398d8753ad5e3954a6f) PC大改版后，界面的确清减简洁许多，重点突出了笔记本身，而弱化了分类。于是，在涉及到笔记转移、文件夹跳转的操作，开始觉得很不便利。好在软件本身提供了较多操作，渐渐找到窍门，整理几点分享。
 
 </br>
 <img src="{{ site.url }}/assets/images/img_20130928_153800.png"/>
