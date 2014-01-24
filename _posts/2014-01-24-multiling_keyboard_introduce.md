@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiling Keyboard - 简单强大的输入法"
+title: "Multiling Keyboard - 超轻量的输入法"
 description: ""
 category: 
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 __Multiling Keyboard__ : [Google Play 地址](https://play.google.com/store/apps/details?id=kl.ime.oh)
 
-说说它有趣的地点：
+说说它有趣的地方：
 
 + 超轻量：实体就令人发指的两三百KB，现在输入法普遍都是十来MB啊 
 + 权限少：就俩权限，是的，亲，您没看错。这货就要求俩权限：震动和提醒。妈妈再也不用担心手机安全了。
