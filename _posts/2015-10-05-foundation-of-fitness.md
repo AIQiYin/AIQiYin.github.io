@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "健身基础知识"
+title: "健身基础知识整理"
 description: ""
 category: 
 tags: []
@@ -37,6 +37,8 @@ tags: []
 
 [腹部 - V字平衡](https://www.evernote.com/l/ADA-fwumzLhOpZSp2IEtlryHSoSLtOPYIyE)
 
+[下腹 - 反向卷腹](https://www.evernote.com/l/ADBSC5dt_8pDKqTbKr9iKZIDkg1eJChw79E)
+
 ####胸
 [胸大肌 - 哑铃宽握卧推](https://www.evernote.com/l/ADA04WztKSRF8pcYujbf2CdphoumeVRdfEI)
 
@@ -64,10 +66,33 @@ tags: []
 [比目鱼肌 - 坐姿哑铃提踵](https://www.evernote.com/l/ADAACBml-a9FRKAkdDLHjZFR_AmpnTK7af4)
 
 ####大臂
+[肱二头肌 - 哑铃单臂弯举](https://www.evernote.com/l/ADAt1FfNJJVMtIxmPUueJRvrZuOiqqX-HTI)
+
+[肱三头肌 - 拉力器](https://www.evernote.com/l/ADBu74y5MxRHf7oXq5n9fP9cB2Rm-SaNobs)
+
+[肱二头肌和肱三头股之间 - 哑铃弯举](https://www.evernote.com/l/ADDwbnKDZmlGaKRdDt6m5vGU7Vd2aS_NVrI)
 
 ####肩
+[三角肌 - 杠铃头后举](https://www.evernote.com/l/ADAllqcvgu9F3JNi4t0YGGqxevgDRptKsu4)
+
+[三角肌侧面 - 哑铃平举](https://www.evernote.com/l/ADCIpXaleOhN-JFCz0c58mItO8YNxAMpieI)
+
+[三角肌后束 - 坐姿俯身飞鸟](https://www.evernote.com/l/ADDtge2k1kZO06VUOqR5sgrfCPD-05RXkNY)
+
+[肩袖 - L侧平举](https://www.evernote.com/l/ADD2xpCj1xJH1K6G2PAlZSToSjETvzudyQw)
 
 ####臀
+[臀部，下背，后腿 - 罗马尼亚硬拉](https://www.evernote.com/l/ADDSRk-4iNdOf6m6QSZsWBUEacN7G5_QRqY)
+
+[臀部，股二 - 低位宽握杠铃深蹲](https://www.evernote.com/l/ADCTIzb_Ex1LVoGajtFEWUTME7V5u6DJkjs)
+
+[臀大肌 - 站姿直腿后抬](https://www.evernote.com/l/ADDv4f5cyFtEY71QKL4fdIXoFri0svbh4yo)
+
+[臀中肌 - 站姿侧抬腿](https://www.evernote.com/l/ADC6gadccD9NlJ29G8VhSXQpLkiKVw83wTw)
 
 ####大腿
+[股二头肌 - 站姿直背体前屈](https://www.evernote.com/l/ADDhvRv0utBM_qGr5SaynvF6vnYMQJGxm0M)
 
+[股四头肌 - 坐姿腿屈伸](https://www.evernote.com/l/ADBOf2HBKl5BrLljLjyjCbCS0ykjokL58ys)
+
+[股二头肌 - 坐姿腿弯举](https://www.evernote.com/l/ADCdrU7fOC5DY4-iF9uuko7CmRzlWpw4b_w)
