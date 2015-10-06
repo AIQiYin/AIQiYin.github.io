@@ -20,7 +20,7 @@ tags: []
 ###基础知识
 整理收纳基本的健身常识。
 
-[基础生理知识](https://www.evernote.com/l/ADCeRjC95c1A_rSmhSEyyXNlR1ddni6L9vg)
+[笔记：基础生理知识](https://www.evernote.com/l/ADCeRjC95c1A_rSmhSEyyXNlR1ddni6L9vg)
 
 推荐看下面两本书：
 
@@ -70,7 +70,7 @@ tags: []
 [竖脊肌 - 十字挺身](https://www.evernote.com/l/ADDnJVGKsFBFj6pnuVN-jUuYV3h0d2l3G_0)
 
 ####小腿
-[比目鱼肌 - 坐姿哑铃提踵](https://www.evernote.com/l/ADAACBml-a9FRKAkdDLHjZFR_AmpnTK7af4)
+[比目鱼肌 - 坐姿器械提踵](https://www.evernote.com/l/ADAACBml-a9FRKAkdDLHjZFR_AmpnTK7af4)
 
 ####大臂
 [肱二头肌 - 哑铃单臂弯举](https://www.evernote.com/l/ADAt1FfNJJVMtIxmPUueJRvrZuOiqqX-HTI)
