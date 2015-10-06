@@ -22,8 +22,15 @@ tags: []
 
 [基础生理知识](https://www.evernote.com/l/ADCeRjC95c1A_rSmhSEyyXNlR1ddni6L9vg)
 
+推荐看下面两本书：
+
++ [Notes of 硬派健身(Author: 斌卡)](https://www.evernote.com/l/ADCRQ846ulxGgr19JDQycXeGJxISv7FBFwI)
++ [Note: The New Encyclopedia of Modern Bodybuilding](https://www.evernote.com/l/ADCEeDWJ3PZHubDIpjDOsip1u0mkkhIsyFM)
+
 ###基本动作
 整理收纳在健身房的基础健身动作及其要点。
+
+推荐看青花鱼教练的两本书。
 
 ####核心
 [核心 - 平板支撑](https://www.evernote.com/l/ADCo2VM8HwtEK7rp5LYkQ-uuAFtBGOcKKb0)
