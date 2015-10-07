@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "健身基础知识整理"
+title: "健身基础知识整理[更新中]"
 description: ""
 category: 
 tags: []
