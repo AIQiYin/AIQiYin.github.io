@@ -11,13 +11,22 @@ tags: []
 
 第一次尝试将笔记整理成 iPython notebook 形式，效果很棒！开始打算是将练习题尽量全做完的，但发现挺费时，后面主要是笔记整理为主，感兴趣的习题会尝试去解。
 
-### 目录
+### [目录](http://nbviewer.ipython.org/github/ningchi/book_notes/tree/master/Mining_of_Massive_Datasets/)
 
 #### 1 Data Mining 
 
 #### 2 Map-Reduce and the New Software Stack
 
-#### 3  Finding Similar Items
-[note: Finding Similar Items](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Finding_Similar_Items/note.ipynb)
+#### [3  Finding Similar Items](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Finding_Similar_Items/note.ipynb)
 
-待续
+#### [4 Mining Data Streams](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Mining_Data_Streams/note.ipynb)
+
+#### 5   Link Analysis   
+#### 6   Frequent Itemsets        
+#### 7   Clustering                
+#### 8   Advertising on the Web                
+#### 9   Recommendation Systems       
+#### 10  Mining Social-Network Graphs         
+#### 11  Dimensionality Reduction                  
+#### 12  Large-Scale Machine Learning
+
