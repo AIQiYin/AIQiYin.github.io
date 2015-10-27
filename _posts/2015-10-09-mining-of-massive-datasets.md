@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "笔记：Mining of Massive Datasets [updating]"
+title: "笔记：Mining of Massive Datasets"
 description: ""
 category: 
 tags: []
