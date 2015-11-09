@@ -25,7 +25,9 @@ tags: []
 #### 6   Frequent Itemsets        
 #### 7   Clustering                
 #### 8   Advertising on the Web                
-#### 9   Recommendation Systems       
+
+#### [9   Recommendation Systems](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Recommendation_Systems/note.ipynb)       
+
 #### 10  Mining Social-Network Graphs         
 #### 11  Dimensionality Reduction                  
 #### 12  Large-Scale Machine Learning
