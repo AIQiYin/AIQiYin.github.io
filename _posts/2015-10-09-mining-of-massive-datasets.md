@@ -21,7 +21,8 @@ tags: []
 
 #### [4 Mining Data Streams](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Mining_Data_Streams/note.ipynb)
 
-#### 5   Link Analysis   
+#### [5 Link Analysis](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Link_Analysis/note.ipynb)   
+
 #### 6   Frequent Itemsets        
 #### 7   Clustering                
 #### 8   Advertising on the Web                
