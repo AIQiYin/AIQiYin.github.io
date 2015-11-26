@@ -34,7 +34,7 @@ By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
 
 #### IV Advanced Design and Analysis Techniques 
 ##### [15 Dynamic Programming 359](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/15_Dynamic_Programming/note.ipynb)
-##### 16 Greedy Algorithms 414
+##### [16 Greedy Algorithms 414](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/16_Greedy_Algorithms/note.ipynb)
 ##### 17 Amortized Analysis 451
 
 #### V Advanced Data Structures 
