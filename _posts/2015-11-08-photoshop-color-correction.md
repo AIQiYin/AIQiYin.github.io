@@ -13,7 +13,7 @@ tags: []
 
 #### [第1章　色彩、对比度和通道](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Photoshop%E4%BF%AE%E8%89%B2%E5%9C%A3%E5%85%B8/Chapter_01/note.ipynb)
 
-#### 第2章　曲线越陡，对比度越强
+#### [第2章　曲线越陡，对比度越强](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Photoshop修色圣典/Chapter_02/note.ipynb)
 #### 第3章　利用数值修正颜色
 #### 第4章　颜色、对比度、峡谷和LAB
 #### 第5章　K通道是关键
