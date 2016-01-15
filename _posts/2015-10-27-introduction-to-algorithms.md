@@ -38,7 +38,7 @@ By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
 ##### [17 Amortized Analysis 451](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/17_Amortized_Analysis/note.ipynb)
 
 #### V Advanced Data Structures 
-##### 18 B-Trees 484
+##### [18 B-Trees 484](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/18_B_Trees/note.ipynb)
 ##### 19 Fibonacci Heaps 505
 ##### 20 van Emde Boas Trees 531
 ##### 21 Data Structures for Disjoint Sets 561
