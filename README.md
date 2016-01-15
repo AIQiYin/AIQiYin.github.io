@@ -1,6 +1,5 @@
 ## Introduce
-just a personal blog
-thanks for Jekyll Bootstrap
+个人博客，访问地址是[ningchi.github.io](http://ningchi.github.io/).
 
 ## License
 
