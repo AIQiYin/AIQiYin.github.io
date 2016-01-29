@@ -23,9 +23,10 @@ tags: []
 
 #### [5 Link Analysis](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Link_Analysis/note.ipynb)   
 
-#### [6   Frequent Itemsets](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Frequent_Itemsets/note.ipynb)
+#### [6 Frequent Itemsets](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Frequent_Itemsets/note.ipynb)
 
-#### 7   Clustering                
+#### [7 Clustering](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Clustering/note.ipynb)                
+
 #### 8   Advertising on the Web                
 
 #### [9   Recommendation Systems](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Recommendation_Systems/note.ipynb)       
