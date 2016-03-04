@@ -60,7 +60,7 @@ By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
 
 ##### [19 Fibonacci Heaps 505](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/19_Fibonacci_Heap/note.ipynb)
 
-##### 20 van Emde Boas Trees 531
+##### [20 van Emde Boas Trees 531](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/20_van_Emde_Boas_Trees/note.ipynb)
 
 ##### 21 Data Structures for Disjoint Sets 561
 
