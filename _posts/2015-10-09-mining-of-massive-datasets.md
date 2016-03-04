@@ -17,7 +17,7 @@ tags: []
 
 #### 2 Map-Reduce and the New Software Stack
 
-#### [3  Finding Similar Items](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Finding_Similar_Items/note.ipynb)
+#### [3 Finding Similar Items](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Finding_Similar_Items/note.ipynb)
 
 #### [4 Mining Data Streams](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Mining_Data_Streams/note.ipynb)
 
@@ -27,11 +27,13 @@ tags: []
 
 #### [7 Clustering](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Clustering/note.ipynb)                
 
-#### 8   Advertising on the Web                
+#### [8 Advertising on the Web](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Advertising_on_the_Web/note.ipynb)
 
-#### [9   Recommendation Systems](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Recommendation_Systems/note.ipynb)       
+#### [9 Recommendation Systems](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Recommendation_Systems/note.ipynb)       
 
 #### 10  Mining Social-Network Graphs         
+
 #### 11  Dimensionality Reduction                  
+
 #### 12  Large-Scale Machine Learning
 
