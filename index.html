@@ -4,9 +4,10 @@ title: 半緣
 ---
 {% include JB/setup %}
 <ul class="posts">
-  {% for post in site.posts limit: 7 %}
+  {% assign posts_by_modify = site.posts | sort: 'modify' | reverse %}
+  {% for post in posts_by_modify limit: 7 %}
     <li style="padding:5px 0;">
-        <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <span>{{ post.modify | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 
