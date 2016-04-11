@@ -71,7 +71,7 @@ By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
 
 ##### [23 Minimum Spanning Trees 624](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/23_Minimum_Spanning_Trees/note.ipynb)
 
-##### 24 Single-Source Shortest Paths 643
+##### [24 Single-Source Shortest Paths 643](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/24_Single-Source_Shortest_Paths/note.ipynb)
 
 ##### 25 All-Pairs Shortest Paths 684
 
