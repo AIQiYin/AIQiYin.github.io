@@ -4,7 +4,7 @@ title: "笔记：Mining of Massive Datasets"
 description: ""
 category: 
 tags: []
-modify: 2016-03-18 23:06:51
+modify: 2016-04-17 20:18:48
 ---
 {% include JB/setup %}
 
@@ -16,7 +16,7 @@ modify: 2016-03-18 23:06:51
 
 #### 1 Data Mining 
 
-#### 2 Map-Reduce and the New Software Stack
+#### [2 Map-Reduce and the New Software Stack](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/MapReduce_and_the_New_Software_Stack/note.ipynb)
 
 #### [3 Finding Similar Items](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Finding_Similar_Items/note.ipynb)
 
