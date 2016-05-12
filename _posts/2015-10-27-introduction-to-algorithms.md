@@ -4,7 +4,7 @@ title: "笔记：Introduction to Algorithms, Third Edition"
 description: ""
 category: 
 tags: []
-modify: 2016-04-28 21:54:28
+modify: 2016-05-12 20:16:42
 ---
 {% include JB/setup %}
 
@@ -75,7 +75,7 @@ By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
 
 ##### [25 All-Pairs Shortest Paths 684](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/25_All-Pairs_Shortest_Paths/note.ipynb)
 
-##### 26 Maximum Flow 708
+##### [26 Maximum Flow 708](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/26_Maximum_Flow/note.ipynb)
 
 #### VII Selected Topics 
 
