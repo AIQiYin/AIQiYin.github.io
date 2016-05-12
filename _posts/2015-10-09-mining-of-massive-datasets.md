@@ -4,7 +4,7 @@ title: "笔记：Mining of Massive Datasets"
 description: ""
 category: 
 tags: []
-modify: 2016-05-04 17:18:54
+modify: 2016-05-12 20:22:53
 ---
 {% include JB/setup %}
 
@@ -34,7 +34,7 @@ modify: 2016-05-04 17:18:54
 
 #### [10  Mining Social-Network Graphs](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Mining_Social_Network_Graphs/note.ipynb)
 
-#### 11  Dimensionality Reduction                  
+#### [11  Dimensionality Reduction](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Dimensionality_Reduction/note.ipynb)
 
 #### 12  Large-Scale Machine Learning
 
