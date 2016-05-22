@@ -4,7 +4,7 @@ title: "笔记：Mining of Massive Datasets"
 description: ""
 category: 
 tags: []
-modify: 2016-05-12 20:22:53
+modify: 2016-05-22 13:49:26
 ---
 {% include JB/setup %}
 
@@ -36,5 +36,8 @@ modify: 2016-05-12 20:22:53
 
 #### [11  Dimensionality Reduction](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Dimensionality_Reduction/note.ipynb)
 
-#### 12  Large-Scale Machine Learning
+#### [12  Large-Scale Machine Learning](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Mining_of_Massive_Datasets/Large-Scale_Machine_Learning/note.ipynb)
 
+
+后记:    
+花费6个月时间，断断续续看完，哈希和近似的想法真是开阔了眼界。第一回看比较急促，此书值得反复看，多实践。
