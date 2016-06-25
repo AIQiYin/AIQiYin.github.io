@@ -6,7 +6,6 @@ category:
 tags: []
 modify: 2016-05-22 13:49:26
 ---
-{% include JB/setup %}
 
 朋友推荐，于是最近在看 [Mining of Massive Datasets - Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)，此书资源在官网可自由获取。
 

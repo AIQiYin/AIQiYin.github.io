@@ -1,20 +1,23 @@
 ---
-layout: page
-title: 半緣 
+layout: default
 ---
-{% include JB/setup %}
-<ul class="posts">
-  {% assign posts_by_modify = site.posts | sort: 'modify' | reverse %}
-  {% for post in posts_by_modify limit: 7 %}
-    <li style="padding:5px 0;">
-    <span>{{ post.modify | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
 
-    <li style="padding:5px 0;">
-        <a href="{{ site.url }}/archive.html"> ..... more ..... </a>
-    </li>
-</ul>
+<div class="home">
 
+  <h1 class="page-heading">Posts</h1>
 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

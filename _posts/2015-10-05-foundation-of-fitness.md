@@ -6,7 +6,6 @@ category:
 tags: []
 modify: 2015-10-05 08:00:00
 ---
-{% include JB/setup %}
 
 将自己收集整理的健身相关知识归结于此处，主要信息来源是：     
 

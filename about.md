@@ -1,10 +1,8 @@
 ---
 layout: page
 title: 简介
-header: page
-group: navigation
+permalink: /about/
 ---
-{% include JB/setup %}
 
 我是个工科生。
 

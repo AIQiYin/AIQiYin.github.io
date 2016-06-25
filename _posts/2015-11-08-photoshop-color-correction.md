@@ -6,7 +6,6 @@ category:
 tags: []
 modify: 2015-11-08 08:00:00
 ---
-{% include JB/setup %}
 
 [Photoshop修色圣典 - 马古利斯](http://book.douban.com/subject/3998734/)
 
