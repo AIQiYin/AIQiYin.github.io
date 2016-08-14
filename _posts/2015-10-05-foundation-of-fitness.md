@@ -2,7 +2,7 @@
 layout: post
 title: "健身基础知识整理"
 description: ""
-category: 
+category: life
 tags: []
 modify: 2015-10-05 08:00:00
 ---

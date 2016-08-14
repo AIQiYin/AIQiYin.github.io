@@ -2,7 +2,7 @@
 layout: post
 title: "笔记：Photoshop 修色圣典"
 description: ""
-category: 
+category: life
 tags: []
 modify: 2015-11-08 08:00:00
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "机器学习：树相关算法"
 description: ""
-category:
+category: tech
 tags: []
 modify: 2016-08-12 08:00:00
 ---

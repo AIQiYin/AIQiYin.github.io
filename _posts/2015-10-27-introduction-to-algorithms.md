@@ -2,7 +2,7 @@
 layout: post
 title: "笔记：Introduction to Algorithms, Third Edition"
 description: ""
-category: 
+category: tech
 tags: []
 modify: 2016-05-12 20:16:42
 ---
