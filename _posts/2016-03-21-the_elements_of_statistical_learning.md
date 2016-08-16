@@ -2,7 +2,7 @@
 layout: post
 title: "笔记：The Elements of Statistical Learning"
 description: ""
-category: 
+category: tech
 tags: []
 modify: 2016-03-21 18:55:07
 ---
