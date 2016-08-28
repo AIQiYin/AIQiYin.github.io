@@ -15,13 +15,7 @@ modify: 2016-08-12 08:00:00
 ### 0 决策树
 
 #### 0.0 Demo
-todo:
-
-+ [决策树简介和 Python 实现]()
-
-参考:
-
-+ [Building a decision tree from scratch - a beginner tutorial](http://www.patricklamle.com/Tutorials/Decision%20tree%20python/tuto_decision%20tree.html)
++ [决策树简介和 Python 实现](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/demo.ipynb)
 
 #### 0.1 阅读 sklearn 实现
 
