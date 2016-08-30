@@ -17,7 +17,8 @@ modify: 2015-10-05 08:00:00
 分享方式使用的是 Evernote 笔记的分享链接，以便后面自己继续增添更改。
 
 
-###基础知识
+### 基础知识
+
 整理收纳基本的健身常识。
 
 + [健身目标的确定](https://www.evernote.com/l/ADDbNuNhR1lNBKnXO4NMD7cbsyXLyeFHonY)
@@ -26,18 +27,20 @@ modify: 2015-10-05 08:00:00
 
 + [肌肉位置分布](https://www.evernote.com/l/ADC_WX5P75BLP5mDwIOCHjaye26HXvZmkx4)
 
-推荐看下面两本书：
+推荐看下面两本书，链接是我的笔记：
 
 + [Notes of 硬派健身(Author: 斌卡)](https://www.evernote.com/l/ADCRQ846ulxGgr19JDQycXeGJxISv7FBFwI)
 
 + [Note: The New Encyclopedia of Modern Bodybuilding](https://www.evernote.com/l/ADCEeDWJ3PZHubDIpjDOsip1u0mkkhIsyFM)
 
-###基本动作
+
+### 基本动作
+
 整理收纳在健身房的基础健身动作及其要点。
 
 推荐看青花鱼教练的两本书。
 
-####拉伸
+#### 拉伸
 锻炼前必须热身，但是否拉伸很有争议。    
 我的做法是锻炼前热身+核心激活，锻炼后再充分拉伸。
 
@@ -45,7 +48,7 @@ modify: 2015-10-05 08:00:00
 [肌肉拉伸大全](https://www.evernote.com/l/ADBKBR5Rm_1DfbkcXnvViS0jRb_eWqgEvV0)
 
 
-####核心
+#### 核心
 + [核心 - 平板支撑](https://www.evernote.com/l/ADCo2VM8HwtEK7rp5LYkQ-uuAFtBGOcKKb0)
 
 + [核心 - 侧向平板支撑](https://www.evernote.com/l/ADDw_WsqMn5PwqB_vHk1EKZRFwb4sWLut-A)
@@ -53,7 +56,7 @@ modify: 2015-10-05 08:00:00
 + [核心 - 俄羅斯式扭轉](https://www.evernote.com/l/ADBqrfSrqkpK-IctfEbc2DKKkmnAP-LYrRg)
 
 
-####腹
+#### 腹
 + [腹部训练基础点](https://www.evernote.com/l/ADBS1o1X4lFHBrlfxGgm33MvktrKM3g0TVM)
 
 + [上腹 - 抬腿屈膝卷腹](https://www.evernote.com/l/ADASwkSZwbZLooNoFD5FhuyWC8t1lLCRsng)
@@ -63,7 +66,7 @@ modify: 2015-10-05 08:00:00
 + [下腹 - 反向卷腹](https://www.evernote.com/l/ADBSC5dt_8pDKqTbKr9iKZIDkg1eJChw79E)
 
 
-####大臂
+#### 大臂
 + [肩臂训练基础点](https://www.evernote.com/l/ADC5Pdp9SBxHFqozoEUQ5HGjW0DWkBmJxu0)
 
 + [肱二头肌 - 哑铃单臂弯举](https://www.evernote.com/l/ADAt1FfNJJVMtIxmPUueJRvrZuOiqqX-HTI)
@@ -73,7 +76,7 @@ modify: 2015-10-05 08:00:00
 + [肱二头肌和肱三头股之间 - 哑铃弯举](https://www.evernote.com/l/ADDwbnKDZmlGaKRdDt6m5vGU7Vd2aS_NVrI)
 
 
-####肩
+#### 肩
 + [三角肌 - 杠铃头后举](https://www.evernote.com/l/ADAllqcvgu9F3JNi4t0YGGqxevgDRptKsu4)
 
 + [三角肌侧面 - 哑铃平举](https://www.evernote.com/l/ADCIpXaleOhN-JFCz0c58mItO8YNxAMpieI)
@@ -83,7 +86,8 @@ modify: 2015-10-05 08:00:00
 + [肩袖 - L侧平举](https://www.evernote.com/l/ADD2xpCj1xJH1K6G2PAlZSToSjETvzudyQw)
 
 
-####胸
+#### 胸
+
 + [胸部训练基础点](https://www.evernote.com/l/ADBIwQOfYjJOMaAc_d6ZGgz0WQZnRSHf6d0)
 
 + [胸大肌 - 哑铃宽握卧推](https://www.evernote.com/l/ADA04WztKSRF8pcYujbf2CdphoumeVRdfEI)
@@ -95,7 +99,8 @@ modify: 2015-10-05 08:00:00
 + [胸大肌内侧 - 拉力器夹胸](https://www.evernote.com/l/ADB7Gbt6cR1MGrP3ZbOIyXZHQLyiyTi0JY8)
 
 
-####背
+#### 背
+
 + [背部训练基础点](https://www.evernote.com/l/ADC0CPFDuftAmrCbRQ64As5o68egdZGTPtE)
 
 + [背阔肌 - 反手胸部引体向上](https://www.evernote.com/l/ADBcn_R3YKhA871-AgiEUda-SJBcRab7diw)
@@ -105,7 +110,8 @@ modify: 2015-10-05 08:00:00
 + [背部 - 划船机](https://www.evernote.com/l/ADDPuaf0Tm1NPJN1cRdWLICqslIlCUr6jN4)
 
 
-####下背
+#### 下背
+
 + [背部下方 - 直腿臀桥](https://www.evernote.com/l/ADA6Hac2JaZA46AKvlGWtEDIjL_MNBS0ic0)
 
 + [背部下方 - 罗马椅挺身](https://www.evernote.com/l/ADDJU73pkZ1Ke59VYi35mvB-Ipd-iHuEcXE)
@@ -113,7 +119,8 @@ modify: 2015-10-05 08:00:00
 + [竖脊肌 - 十字挺身](https://www.evernote.com/l/ADDnJVGKsFBFj6pnuVN-jUuYV3h0d2l3G_0)
 
 
-####臀
+#### 臀
+
 + [臀腿训练基础点](https://www.evernote.com/l/ADBfCcGixFNL-aNgvZ85bCtRuvEiqw2Gq9Q)
 
 + [臀部，下背，后腿 - 罗马尼亚硬拉](https://www.evernote.com/l/ADDSRk-4iNdOf6m6QSZsWBUEacN7G5_QRqY)
@@ -125,7 +132,8 @@ modify: 2015-10-05 08:00:00
 + [臀中肌 - 站姿侧抬腿](https://www.evernote.com/l/ADC6gadccD9NlJ29G8VhSXQpLkiKVw83wTw)
 
 
-####大腿
+#### 大腿
+
 + [股二头肌 - 站姿直背体前屈](https://www.evernote.com/l/ADDhvRv0utBM_qGr5SaynvF6vnYMQJGxm0M)
 
 + [股四头肌 - 坐姿腿屈伸](https://www.evernote.com/l/ADBOf2HBKl5BrLljLjyjCbCS0ykjokL58ys)
@@ -133,7 +141,8 @@ modify: 2015-10-05 08:00:00
 + [股二头肌 - 坐姿腿弯举](https://www.evernote.com/l/ADCdrU7fOC5DY4-iF9uuko7CmRzlWpw4b_w)
 
 
-####小腿
+#### 小腿
+
 + [小腿训练基础点](https://www.evernote.com/l/ADCeRjC95c1A_rSmhSEyyXNlR1ddni6L9vg)
 
 + [比目鱼肌 - 坐姿器械提踵](https://www.evernote.com/l/ADAACBml-a9FRKAkdDLHjZFR_AmpnTK7af4)
