@@ -29,9 +29,9 @@ modify: 2015-10-05 08:00:00
 
 推荐看下面两本书，链接是我的笔记：
 
-+ [Notes of 硬派健身(Author: 斌卡)](https://www.evernote.com/l/ADCRQ846ulxGgr19JDQycXeGJxISv7FBFwI)
++ [Notes of 硬派健身(Author: 斌卡)](https://www.evernote.com/l/ADCRQ846ulxGgr19JDQycXeGuIaOQU5p8Es)
 
-+ [Note: The New Encyclopedia of Modern Bodybuilding](https://www.evernote.com/l/ADCEeDWJ3PZHubDIpjDOsip1u0mkkhIsyFM)
++ [Note: The New Encyclopedia of Modern Bodybuilding](https://www.evernote.com/l/ADCEeDWJ3PZHubDIpjDOsip1KKaZs7Ra3wI)
 
 
 ### 基本动作
