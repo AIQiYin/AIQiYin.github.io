@@ -4,9 +4,9 @@ title: "机器学习：树相关算法"
 description: ""
 category: tech
 tags: []
-modify: 2016-09-07 10:24:07
+modify: 2016-09-13 08:13:47
 ---
-update: 2016-09-07
+update: 2016-09-13
 
 看了不少机器学习的书籍，却始终是略懂皮毛的程度。最近项目训练GBDT模型，更是深切地认识到「学以致用」的必要性。故打算由浅入深地重新学习树相关的方法，大致思路是：首先实现 demo 阐明原理，再阅读常用的工程实现，最后阅读论文打通数学推导。
 
@@ -26,6 +26,8 @@ update: 2016-09-07
 细节：
 
 + [评价函数模块 _criterion.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_criterion.ipynb)
+
++ [分割函数模块 _splitter.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_splitter.ipynb)
 
 #### 0.2 阅读 spark 实现
 
