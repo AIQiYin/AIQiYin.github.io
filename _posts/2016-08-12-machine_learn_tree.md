@@ -29,6 +29,9 @@ update: 2016-09-13
 
 + [分割函数模块 _splitter.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_splitter.ipynb)
 
++ [树构建模块 _tree.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_tree.ipynb)
+
+
 #### 0.2 阅读 spark 实现
 
 #### 0.3 论文阅读与相关数学推导
