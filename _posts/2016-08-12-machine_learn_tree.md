@@ -41,7 +41,9 @@ update: 2016-09-26
 
 
 ### 2 GBDT(Gradient Boosting Decision Tree)
+
 #### 原理
+
 + [GBDT(Gradient Boosting Decision Tree) 原理简介](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/gbdt/intro.ipynb)
 
 #### 实现
