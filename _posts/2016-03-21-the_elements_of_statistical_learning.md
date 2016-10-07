@@ -11,12 +11,12 @@ modify: 2016-03-21 18:55:07
 
 不知道能否看完此书，又需要多长时间。目前想法是做笔记（基本要点），课后习题尽量解，能力有限，肯定错不会少，还请指正。书中部份公式有尝试证明，整理过于耗时，只好先行搁置。
 
-### [目录](http://nbviewer.jupyter.org/github/ningchi/book_notes/tree/master/The_Elements_of_Statistical_Learning/)
+### [目录](http://nbviewer.jupyter.org/github/facaiy/book_notes/tree/master/The_Elements_of_Statistical_Learning/)
 
-#### [1 Introduction 1](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/The_Elements_of_Statistical_Learning/Introduction/note.ipynb)
+#### [1 Introduction 1](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/The_Elements_of_Statistical_Learning/Introduction/note.ipynb)
 
-#### [2 Overview of Supervised Learning 9](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/The_Elements_of_Statistical_Learning/Overview_of_Supervised_Learning/note.ipynb)
-[课后题](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/The_Elements_of_Statistical_Learning/Overview_of_Supervised_Learning/exercises.ipynb)
+#### [2 Overview of Supervised Learning 9](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/The_Elements_of_Statistical_Learning/Overview_of_Supervised_Learning/note.ipynb)
+[课后题](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/The_Elements_of_Statistical_Learning/Overview_of_Supervised_Learning/exercises.ipynb)
 
 #### 3 Linear Methods for Regression 43
 

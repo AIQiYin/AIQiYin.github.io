@@ -11,9 +11,9 @@ email: yafc18@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   願在木而為桐，作膝上之鳴琴。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ningchi.github.io" # the base hostname & protocol for your site
+url: "https://facaiy.github.io" # the base hostname & protocol for your site
 twitter_username: yfcoldfire
-github_username:  ningchi
+github_username:  facaiy
 
 # Build settings
 markdown: kramdown

@@ -48,33 +48,33 @@ By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
 
 #### IV Advanced Design and Analysis Techniques 
 
-##### [15 Dynamic Programming 359](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/15_Dynamic_Programming/note.ipynb)
+##### [15 Dynamic Programming 359](http://nbviewer.ipython.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/15_Dynamic_Programming/note.ipynb)
 
-##### [16 Greedy Algorithms 414](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/16_Greedy_Algorithms/note.ipynb)
+##### [16 Greedy Algorithms 414](http://nbviewer.ipython.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/16_Greedy_Algorithms/note.ipynb)
 
-##### [17 Amortized Analysis 451](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/17_Amortized_Analysis/note.ipynb)
+##### [17 Amortized Analysis 451](http://nbviewer.ipython.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/17_Amortized_Analysis/note.ipynb)
 
 #### V Advanced Data Structures 
 
-##### [18 B-Trees 484](http://nbviewer.ipython.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/18_B_Trees/note.ipynb)
+##### [18 B-Trees 484](http://nbviewer.ipython.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/18_B_Trees/note.ipynb)
 
-##### [19 Fibonacci Heaps 505](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/19_Fibonacci_Heap/note.ipynb)
+##### [19 Fibonacci Heaps 505](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/19_Fibonacci_Heap/note.ipynb)
 
-##### [20 van Emde Boas Trees 531](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/20_van_Emde_Boas_Trees/note.ipynb)
+##### [20 van Emde Boas Trees 531](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/20_van_Emde_Boas_Trees/note.ipynb)
 
-##### [21 Data Structures for Disjoint Sets 561](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/21_Data_Structures_for_Disjoint_Sets/note.ipynb)
+##### [21 Data Structures for Disjoint Sets 561](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/21_Data_Structures_for_Disjoint_Sets/note.ipynb)
 
 #### VI Graph Algorithms 
 
-##### [22 Elementary Graph Algorithms 589](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/22_Elementary_Graph_Algorithms/note.ipynb)
+##### [22 Elementary Graph Algorithms 589](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/22_Elementary_Graph_Algorithms/note.ipynb)
 
-##### [23 Minimum Spanning Trees 624](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/23_Minimum_Spanning_Trees/note.ipynb)
+##### [23 Minimum Spanning Trees 624](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/23_Minimum_Spanning_Trees/note.ipynb)
 
-##### [24 Single-Source Shortest Paths 643](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/24_Single-Source_Shortest_Paths/note.ipynb)
+##### [24 Single-Source Shortest Paths 643](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/24_Single-Source_Shortest_Paths/note.ipynb)
 
-##### [25 All-Pairs Shortest Paths 684](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/25_All-Pairs_Shortest_Paths/note.ipynb)
+##### [25 All-Pairs Shortest Paths 684](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/25_All-Pairs_Shortest_Paths/note.ipynb)
 
-##### [26 Maximum Flow 708](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/Introduction_to_Algorithms/26_Maximum_Flow/note.ipynb)
+##### [26 Maximum Flow 708](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/Introduction_to_Algorithms/26_Maximum_Flow/note.ipynb)
 
 #### VII Selected Topics 
 

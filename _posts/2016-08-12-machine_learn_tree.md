@@ -16,20 +16,20 @@ update: 2016-09-26
 ### 0 决策树
 
 #### 0.0 Demo
-+ [决策树简介和 Python 实现](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/demo.ipynb)
++ [决策树简介和 Python 实现](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/decision_tree/demo.ipynb)
 
 #### 0.1 阅读 sklearn 实现
 总纲：
 
-+ [决策树在 sklearn 中的实现简介](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/intro.ipynb)
++ [决策树在 sklearn 中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/intro.ipynb)
 
 细节：
 
-+ [评价函数模块 _criterion.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_criterion.ipynb)
++ [评价函数模块 _criterion.* 详解](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_criterion.ipynb)
 
-+ [分割函数模块 _splitter.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_splitter.ipynb)
++ [分割函数模块 _splitter.* 详解](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_splitter.ipynb)
 
-+ [树构建模块 _tree.* 详解](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_tree.ipynb)
++ [树构建模块 _tree.* 详解](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/decision_tree/sklearn/_tree.ipynb)
 
 
 #### 0.2 阅读 spark 实现
@@ -44,7 +44,7 @@ update: 2016-09-26
 
 #### 原理
 
-+ [GBDT(Gradient Boosting Decision Tree) 原理简介](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/gbdt/intro.ipynb)
++ [GBDT(Gradient Boosting Decision Tree) 原理简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/gbdt/intro.ipynb)
 
 #### 实现
-+ [GBDT 在 spark 中的实现简介](http://nbviewer.jupyter.org/github/ningchi/book_notes/blob/master/machine_learning/tree/gbdt/spark/intro.ipynb)
++ [GBDT 在 spark 中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/gbdt/spark/intro.ipynb)
