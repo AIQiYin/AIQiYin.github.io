@@ -44,7 +44,7 @@ update: 2016-10-13
 
 + [GBDT(Gradient Boosting Decision Tree) 原理简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/gbdt/intro.ipynb)
 
-+ [TreeBoost简介]()
++ [TreeBoost简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/gbdt/treeboost/intro.ipynb)
 
 #### 实现
 + [GBDT 在 spark 中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/gbdt/spark/intro.ipynb)
