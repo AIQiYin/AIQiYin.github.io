@@ -17,7 +17,7 @@ permalink: /about/
 
 联系我：
 
-+ [邮箱](mailto:yafc18@gmail.com)
++ [邮箱](mailto:facai.yan@gmail.com)
 + [twitter](https://twitter.com/yfcoldfire)
 + [豆瓣](http://www.douban.com/people/38287482/)
 + [摄影](https://www.flickr.com/photos/ningchi/)
