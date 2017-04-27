@@ -4,10 +4,10 @@ title: "笔记：Functional Programming in Scala"
 description: ""
 category: tech
 tags: []
-modify: 2017-04-23 05:06:18
+modify: 2017-04-27 08:22:23
 ---
 
-update: 2017-04-23
+update: 2017-04-27
 
 早上四点就自然醒了，没了睡意，就整理下最近在看的函数式编程书籍[Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala), 2015。同事推荐说有点烧脑，做了开头两章，确实挺好玩的。
 
@@ -24,7 +24,7 @@ update: 2017-04-23
 
 ##### [3 Functional data structures](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c3)
 
-##### 4 Handling errors without exceptions
+##### [4 Handling errors without exceptions](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c4)
 
 ##### 5 Strictness and laziness
 
