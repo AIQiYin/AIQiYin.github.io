@@ -55,6 +55,8 @@ update: 2017-03-15
 #### 实现
 + [GBDT 在 spark 中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/tree/gbdt/spark/intro.ipynb)
 
++ [Spark ML: Tree架构笔记](https://www.evernote.com/l/ADDTp7Nc6iRFmJRUDola9Jpa9v1J1BAsNeg)
+
 
 ### 3 xgboost
 
