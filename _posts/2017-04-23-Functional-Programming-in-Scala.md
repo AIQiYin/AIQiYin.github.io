@@ -26,7 +26,7 @@ update: 2017-04-27
 
 ##### [4 Handling errors without exceptions](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c4)
 
-##### 5 Strictness and laziness
+##### [5 Strictness and laziness](https://github.com/facaiy/book_notes/blob/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c5/Stream.scala)
 
 ##### 6 Purely functional state
 
