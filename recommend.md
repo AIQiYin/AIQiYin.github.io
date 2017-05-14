@@ -5,7 +5,6 @@ title: 推荐
 
 update: 2017-05-14
 
-排名无先后，想到就补上。
 
 + 博客（不超过11个）
     - [可能吧](https://kenengba.com/)
@@ -35,5 +34,5 @@ update: 2017-05-14
 + 媒体/专栏（不超过5个）
   - [鏘鏘三人行](http://phtv.ifeng.com/program/qqsrx/)
   - [见字如面](https://movie.douban.com/subject/26936282/)
-  - [职人介绍所](https://zhuanlan.zhihu.com/hallofpro)
   - [科学美国人](http://www.huanqiukexue.com/)：杂志
+  - [职人介绍所](https://zhuanlan.zhihu.com/hallofpro)
