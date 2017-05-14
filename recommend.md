@@ -3,7 +3,7 @@ layout: page
 title: 推荐
 ---
 
-update: 2017-05-14
+update: 2017-05-15
 
 
 + 博客（不超过11个）
@@ -36,3 +36,12 @@ update: 2017-05-14
   - [见字如面](https://movie.douban.com/subject/26936282/)
   - [科学美国人](http://www.huanqiukexue.com/)：杂志
   - [职人介绍所](https://zhuanlan.zhihu.com/hallofpro)
+
+<br/>
+
++ 应用/服务（不超过5个）
+  - [Google](https://www.google.com/)
+  - [Evernote](https://evernote.com/)
+  - [豆瓣FM](https://douban.fm/)
+  - [Gmail](https://www.google.com/gmail/)
+  - [多看阅读](http://www.duokan.com/)
