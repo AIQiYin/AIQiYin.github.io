@@ -17,3 +17,6 @@ github_username:  facaiy
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA-99358515-1
