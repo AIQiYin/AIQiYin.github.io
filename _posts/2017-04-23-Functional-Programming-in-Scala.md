@@ -35,7 +35,7 @@ update: 2017-05-10
 
 ##### [7 Purely functional parallelism](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c7)
 
-##### 8 Property-based testing
+##### [8 Property-based testing](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c8)
 
 ##### 9 Parser combinators
 
