@@ -13,7 +13,7 @@ update: 2017-05-18
 
 + [facaiy/facaiy-scala-with-java-quickstart](https://github.com/facaiy/facaiy-scala-with-java-quickstart)：maven archetype，快速创建Scala和Java混合工程。
 + [facaiy/DAG-lite](https://github.com/facaiy/DAG-lite)：试验性质的轻量任务调度执行库。
-+ [facaiy/spark-tutorial](https://github.com/facaiy/spark-tutorial)：自己写的spark入门资料。
++ [facaiy/Spark-for-the-Impatient](https://github.com/facaiy/Spark-for-the-Impatient)：自己写的spark入门资料。
 + [facaiy/facai-tools](https://github.com/facaiy/facai-tools)：
   - config: 一些常用软件的配置文件。
   - script: 一些脚本。
