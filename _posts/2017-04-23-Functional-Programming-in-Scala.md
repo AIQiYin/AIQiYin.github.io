@@ -44,7 +44,7 @@ update: 2017-06-05
 
 ##### [10 Monoids](https://github.com/facaiy/book_notes/blob/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c10/Monoid.scala)
 
-##### 11 Monads
+##### [11 Monads](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c11)
 
 ##### 12 Applicative and traversable functors
 
