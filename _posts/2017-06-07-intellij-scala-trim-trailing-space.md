@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "How to remove trailing spaces for Scala in IntelliJ IDEA 2017"
+title: "How to remove trailing spaces(行尾空格) for Scala in IntelliJ IDEA 2017"
 description: ""
 category: misc
 tags: []
-modify: 2017-06-07 18:15:29
+modify: 2017-06-08 10:06:31
 ---
 
-update: 2017-06-07
+update: 2017-06-08
 
 
-最近IntelliJ升级到2017后，scala文件的行末留白，不再自动消除，真是逼死洁癖程序员。
+最近IntelliJ升级到2017后，scala文件的行尾空格，不再自动消除，真是逼死洁癖程序员。
 
 开始我的解决方案是在git提交时做防御，如下：
 
@@ -40,6 +40,8 @@ git rebase --whitespace=fix HEAD~1
           [ ] Keep indents on empty lines
 ```
 
-话说scala插件怎么会默认启动这个奇葩选项。
+注意，此功能只会在保存文件时触发。
+
+所以，每次提交前，保存全部文件（Save All: Command key + S），即会自动清除。
 
 总之，又可以愉快地搬砖了，以上。
