@@ -4,10 +4,10 @@ title: "笔记：Functional Programming in Scala"
 description: ""
 category: tech
 tags: []
-modify: 2017-06-05 11:54:19
+modify: 2017-06-14 09:35:39
 ---
 
-update: 2017-06-05
+update: 2017-06-14
 
 早上四点就自然醒了，没了睡意，就整理下最近在看的函数式编程书籍[Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala), 2015。同事推荐说有点烧脑，做了开头两章，确实挺好玩的。
 
@@ -46,7 +46,7 @@ update: 2017-06-05
 
 ##### [11 Monads](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c11)
 
-##### 12 Applicative and traversable functors
+##### [12 Applicative and traversable functors](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c12)
 
 
 #### PART 4 EFFECTS AND I/O
