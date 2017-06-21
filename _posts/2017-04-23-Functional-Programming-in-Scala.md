@@ -4,10 +4,10 @@ title: "笔记：Functional Programming in Scala"
 description: ""
 category: tech
 tags: []
-modify: 2017-06-14 09:35:39
+modify: 2017-06-21 14:21:29
 ---
 
-update: 2017-06-14
+update: 2017-06-21
 
 早上四点就自然醒了，没了睡意，就整理下最近在看的函数式编程书籍[Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala), 2015。同事推荐说有点烧脑，做了开头两章，确实挺好玩的。
 
@@ -51,7 +51,7 @@ update: 2017-06-14
 
 #### PART 4 EFFECTS AND I/O
 
-##### 13 External effects and I/O
+##### [13 External effects and I/O](https://github.com/facaiy/book_notes/tree/master/Manning_Functional_Programming_in_Scala/functional-programming/src/main/scala/io/github/facaiy/c13)
 
 ##### 14 Local effects and mutable state
 
