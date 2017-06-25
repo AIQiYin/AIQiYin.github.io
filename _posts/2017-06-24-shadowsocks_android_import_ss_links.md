@@ -4,10 +4,10 @@ title: "Shadowsocks, 批量导入配置 - Android, Mac"
 description: ""
 category: misc
 tags: []
-modify: 2017-06-25 11:07:57
+modify: 2017-06-25 11:56:14
 ---
 
-update: 2016-06-25
+update: 2017-06-25
 
 
 最近手腕有些不适，医生说是肌肉疲劳，建议多休息，于是周末宅住处。不太敢用电脑，可闲不住呐，就折腾了些脚本，均放在[这里](https://github.com/facaiy/facai-tools/tree/master/script/vpnso)，以供下载。
@@ -27,19 +27,19 @@ Shadowsocks-android唯一能批量导入的功能是「从剪贴板导入」(Imp
 配合关键字使用`git grep`命令，很快就定位到`Profile.scala`文件：
 
 ```scala
-  def toUri: Uri = {
-    val builder = new Uri.Builder()
-      .scheme("ss")
-      .encodedAuthority("%s@%s:%d".formatLocal(Locale.ENGLISH,
-        Base64.encodeToString("%s:%s".formatLocal(Locale.ENGLISH, method, password).getBytes,
-          Base64.NO_PADDING | Base64.NO_WRAP | Base64.URL_SAFE),
-        if (host.contains(':')) '[' + host + ']' else host, remotePort))
-    val configuration = new PluginConfiguration(plugin)
-    if (configuration.selected.nonEmpty)
-      builder.appendQueryParameter(Key.plugin, configuration.selectedOptions.toString(false))
-    if (!nameIsEmpty) builder.fragment(name)
-    builder.build()
-  }
+def toUri: Uri = {
+  val builder = new Uri.Builder()
+    .scheme("ss")
+    .encodedAuthority("%s@%s:%d".formatLocal(Locale.ENGLISH,
+      Base64.encodeToString("%s:%s".formatLocal(Locale.ENGLISH, method, password).getBytes,
+        Base64.NO_PADDING | Base64.NO_WRAP | Base64.URL_SAFE),
+      if (host.contains(':')) '[' + host + ']' else host, remotePort))
+  val configuration = new PluginConfiguration(plugin)
+  if (configuration.selected.nonEmpty)
+    builder.appendQueryParameter(Key.plugin, configuration.selectedOptions.toString(false))
+  if (!nameIsEmpty) builder.fragment(name)
+  builder.build()
+}
 ```
 
 思路比较简单，对`method`和密码编码后，组成URL。问题是这里格式应该是`ss://base64@host:port?...#jp`，和前面看到的不符合。可能是存在`encodeAuthority`这个方法，尝试追了下，发现是Android官方库，而且有点绕。
@@ -47,16 +47,16 @@ Shadowsocks-android唯一能批量导入的功能是「从剪贴板导入」(Imp
 转换思路，从解码端反查下如何，于是定位到`Parser.scala`文件。
 
 ```scala
-  private val pattern = "(?i)ss://[-a-zA-Z0-9+&@#/%?=~_|!:,.;\\[\\]]*[-a-zA-Z0-9+&@#/%=~_|\\[\\]]".r
-  private val legacyPattern = "^(.+?):(.*)@(.+?):(\\d+?)$".r
+private val pattern = "(?i)ss://[-a-zA-Z0-9+&@#/%?=~_|!:,.;\\[\\]]*[-a-zA-Z0-9+&@#/%=~_|\\[\\]]".r
+private val legacyPattern = "^(.+?):(.*)@(.+?):(\\d+?)$".r
 
-  def findAll(data: CharSequence): Iterator[Profile] =
-    pattern.findAllMatchIn(if (data == null) "" else data).map(m => {
-      val uri = Uri.parse(m.matched)
-      uri.getUserInfo match {
-        case null => val str = new String(Base64.decode(uri.getHost, Base64.NO_PADDING), "UTF-8"); str match {
-          case legacyPattern(method, password, host, port) =>  // legacy uri
-        }
+def findAll(data: CharSequence): Iterator[Profile] =
+  pattern.findAllMatchIn(if (data == null) "" else data).map(m => {
+    val uri = Uri.parse(m.matched)
+    uri.getUserInfo match {
+      case null => val str = new String(Base64.decode(uri.getHost, Base64.NO_PADDING), "UTF-8"); str match {
+        case legacyPattern(method, password, host, port) =>  // legacy uri
+      }
 ```
 
 原来这个协议还有个老版本格式，对`method:password@server:port`进行编码就行。
