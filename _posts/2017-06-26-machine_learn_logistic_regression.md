@@ -4,10 +4,10 @@ title: "机器学习：逻辑回归"
 description: ""
 category: tech
 tags: []
-modify: 2017-06-26 11:04:28
+modify: 2017-06-29 10:53:53
 ---
 
-update: 2017-06-26
+update: 2017-06-29
 
 逻辑回归在点击率推荐中仍占有半壁江山，于是打算细致做下梳理，包括常见理论变形和工业成熟实现。预计耗时一个月。
 
@@ -22,9 +22,9 @@ update: 2017-06-26
 #### 优化算法
 
 + SAG
-+ LBFGS
++ LBFGS / QWLQN
 + newton-cg
-+ liblinear
++ liblinear: TRON
 
 #### 多分类问题
 
@@ -33,8 +33,9 @@ update: 2017-06-26
 
 ### 工程实现
 
-+ Spark
++ [逻辑回归在spark中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/spark_ml_lr.ipynb)
+
 + Scikit-learn
 + TensorFlow
++ R pacakge: glm / glmet
 + Liblinear
-+ R pacakge
