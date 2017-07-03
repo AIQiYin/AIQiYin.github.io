@@ -4,10 +4,10 @@ title: "机器学习：逻辑回归"
 description: ""
 category: tech
 tags: []
-modify: 2017-06-29 10:53:53
+modify: 2017-07-03 13:34:26
 ---
 
-update: 2017-06-29
+update: 2017-07-03
 
 逻辑回归在点击率推荐中仍占有半壁江山，于是打算细致做下梳理，包括常见理论变形和工业成熟实现。预计耗时一个月。
 
@@ -16,8 +16,7 @@ update: 2017-06-29
 
 #### 二分类问题
 
-+ 基本原理
-+ Python demo
++ [逻辑回归算法简介和Python实现](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/demo.ipynb)
 
 #### 优化算法
 
