@@ -14,20 +14,16 @@ update: 2017-07-03
 
 ### 理论
 
-#### 二分类问题
+#### 原理
 
 + [逻辑回归算法简介和Python实现](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/demo.ipynb)
 
-#### 优化算法
+#### 寻优算法
 
 + SAG
 + LBFGS / QWLQN
 + newton-cg
 + liblinear: TRON
-
-#### 多分类问题
-
-+ 阅读ESL 4.4
 
 
 ### 工程实现
