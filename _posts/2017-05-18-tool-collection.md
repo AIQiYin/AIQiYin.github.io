@@ -4,13 +4,14 @@ title: "个人小工具及项目汇总"
 description: ""
 category: misc
 tags: []
-modify: 2017-05-18 13:42:01
+modify: 2017-07-04 21:20:13
 ---
 
-update: 2017-05-18
+update: 2017-07-04
 
 在生活工作中，逐渐地积攒了些小工具，或者项目。因为还有点用，故开此博文，汇集于一处，便于总览。
 
++ [facaiy/math-expression-parser](https://github.com/facaiy/math-expression-parser)：简单的数学表达式解析库。基本可用，但比较简陋，有时间会再完善，比如支持Java接口、自定义函数注册。
 + [facaiy/facaiy-scala-with-java-quickstart](https://github.com/facaiy/facaiy-scala-with-java-quickstart)：maven archetype，快速创建Scala和Java混合工程。
 + [facaiy/DAG-lite](https://github.com/facaiy/DAG-lite)：试验性质的轻量任务调度执行库。
 + [facaiy/Spark-for-the-Impatient](https://github.com/facaiy/Spark-for-the-Impatient)：自己写的spark入门资料。
