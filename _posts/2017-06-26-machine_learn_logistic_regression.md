@@ -29,9 +29,7 @@ update: 2017-07-06
 ### 工程实现
 
 + [逻辑回归在spark中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/spark_ml_lr.ipynb)
-
 + [逻辑回归在scikit-learn中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/tree/master/machine_learning/logistic_regression/sklearn_lr.ipynb)
-
 + TensorFlow
 + R pacakge: glm / glmet
 + Liblinear
