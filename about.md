@@ -20,3 +20,15 @@ permalink: /about/
 + 职业 - [LinkedIn (领英)](https://www.linkedin.com/in/facaiy)
 + 生活 - [豆瓣](https://www.douban.com/people/facaiy/)
 + 摄影 - [Flickr](https://www.flickr.com/photos/ningchi/) (主站)，[500px](https://500px.me/facai) (辅站)
+
+
+<br/>
+<br/>
+
+#### 附录
+
+开源贡献：
+
++ spark: 2.1; 2.2; 2.3
++ scikit-learn: 0.18;
++ pandas: 0.18; 0.19;
