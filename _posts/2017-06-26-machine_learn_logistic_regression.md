@@ -4,21 +4,21 @@ title: "机器学习：逻辑回归"
 description: ""
 category: tech
 tags: []
-modify: 2017-07-10 11:14:48
+modify: 2017-07-11 10:52:40
 ---
 
-update: 2017-07-10
+update: 2017-07-11
 
 逻辑回归在点击率推荐中仍占有半壁江山，于是打算细致做下梳理，包括常见理论变形和工业成熟实现。预计耗时一个月。
 
 
-### 理论
+### 0. 理论
 
-#### 原理
+#### 0.1 原理
 
 + [逻辑回归算法简介和Python实现](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/demo.ipynb)
 
-#### 寻优算法
+#### 0.2 寻优算法
 
 常规的机器学习算法，通常有两个过程：一是构建模型，并给出损失函数；二是用数值寻优根据损失函数找到合适参数。
 
@@ -50,11 +50,20 @@ update: 2017-07-10
 + Numerical Optimization, Jorge Nocedal, Stephen J. Wright.
 
 
-### 工程实现
+### 1. 工程实现
 
 + [逻辑回归在spark中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/spark_ml_lr.ipynb)
 + [逻辑回归在scikit-learn中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/tree/master/machine_learning/logistic_regression/sklearn_lr.ipynb)
++ [逻辑回归在TensorFlow contrib.learn中的实现简介](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/machine_learning/logistic_regression/tensorflow_lr.ipynb)
 + Angel
-+ TensorFlow
 + R pacakge: glm / glmet
 + Liblinear
+
+
+### 2. 结语
+
+逻辑回归的理论既简单又复杂，简单是说二分类的代数式很容易入门看懂，复杂是说对它的拓展可以很深入，如用矩阵式来求解、多分类、复杂的数值优化方法等等。易于入门，难于精通。
+
+虽然线性分类器后面的数理知识坚实又深奥，然而工程实现相对简单，主要是损失函数和导数、及寻优算子二部份。大多数工程实现都大同小异，如sklearn是标签-1/+1的推导，spark在最后代数变换，将0/1标签转成-1/+1，tensorflow是标签0/1的推导。总体而言，代码并不太复杂。
+
+花费了两周时间来梳理基础知识，以后有时间再深入。
