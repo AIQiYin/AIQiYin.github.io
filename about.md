@@ -28,9 +28,10 @@ permalink: /about/
 
 1. 开源贡献：
 
-   + Spark: 2.1; 2.2; 2.3;
-   + Scikit-learn: 0.18;
-   + Pandas: 0.18; 0.19;
+   + [apache/spark](https://github.com/apache/spark): 2.1; 2.2; 2.3;
+   + [Tencent/angel](https://github.com/Tencent/angel): 1.0.0;
+   + [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): 0.18;
+   + [pandas-dev/pandas](https://github.com/pandas-dev/pandas): 0.18; 0.19;
 
 2. 会议与讲演：
 
