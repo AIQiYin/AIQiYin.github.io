@@ -31,7 +31,7 @@ update: 2017-08-05
 
 #### Part II: Modern Practical Deep Networks
 
-##### 6 Deep Feedforward Networks
+##### [6 Deep Feedforward Networks](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/deep_learning/Deep_Feedforward_Networks/note.ipynb)
 
 ##### 7 Regularization for Deep Learning
 
