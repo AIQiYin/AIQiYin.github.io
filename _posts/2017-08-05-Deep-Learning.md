@@ -4,10 +4,10 @@ title: "笔记：Deep Learning"
 description: ""
 category: tech
 tags: []
-modify: 2017-08-05 11:27:23
+modify: 2017-08-10 09:55:12
 ---
 
-update: 2017-08-05
+update: 2017-08-10
 
 
 最近在用tensorflow做深度学习方面的工作，总有「书到用时方恨少」之感。虽然研究生时上过两门相关课程，但均是浅尝辙止。这回和冬博士讨教，他推荐了[Deep Learning](http://www.deeplearningbook.org)这本书，于是打算认真研读下。
@@ -33,7 +33,7 @@ update: 2017-08-05
 
 ##### [6 Deep Feedforward Networks](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/deep_learning/Deep_Feedforward_Networks/note.ipynb)
 
-##### 7 Regularization for Deep Learning
+##### [7 Regularization for Deep Learning](http://nbviewer.jupyter.org/github/facaiy/book_notes/blob/master/deep_learning/Regularization_for_Deep_Learning/note.ipynb)
 
 ##### 8 Optimization for Training Deep Models
 
