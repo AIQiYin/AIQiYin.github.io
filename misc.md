@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 琐碎
+title: 其他
 permalink: /misc/
 ---
 
