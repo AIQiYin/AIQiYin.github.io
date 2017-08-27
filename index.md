@@ -1,3 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+  {% assign posts_by_modify = site.categories.tech | sort:'modify' | reverse %}
+    {% for post in posts_by_modify%}
+      <li>
+        <span class="post-meta">{{ post.modify | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AIQiYin/AIQiYin.github.io/blob/master/my_resume) to maintain and preview the content for your website in Markdown files.
