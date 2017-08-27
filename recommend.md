@@ -1,9 +1,8 @@
 ---
 layout: page
 title: 推荐
+permalink: /recommend/
 ---
-
-update: 2017-05-15
 
 
 + 博客（不超过11个）
