@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entangle Classifier Notes"
-description: ""
+description: "find what the description is"
 category: life
 tags: []
 modify: 2017-08-27 19:45:19
