@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "entangle classifier notes"
+title: "Entangle Classifier Notes"
 description: ""
 category: life
 tags: []
