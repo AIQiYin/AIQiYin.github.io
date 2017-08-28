@@ -12,7 +12,7 @@ permalink: /tech/
   {% assign posts_by_modify = site.catagories.tech | sort:'modify' | reverse %}
     {% for post in posts_by_modify%}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.modify | date: "%b %-d, %Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
