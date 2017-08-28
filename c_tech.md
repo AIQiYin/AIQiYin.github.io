@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 其他
-permalink: /misc/
+title: 技术
+permalink: /tech/
 ---
 
 <div class="home">
@@ -9,7 +9,7 @@ permalink: /misc/
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-  {% assign posts_by_modify = site.categories.misc | sort:'modify' | reverse %}
+  {% assign posts_by_modify = site.categories.tech | sort:'modify' | reverse %}
     {% for post in posts_by_modify%}
       <li>
         <span class="post-meta">{{ post.modify | date: "%b %-d, %Y" }}</span>

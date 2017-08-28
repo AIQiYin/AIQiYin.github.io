@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 飲冰
-email: facai.yan@gmail.com
+title: 悟而理之
+email: yinqi1780@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
   富貴福澤，將厚吾之生也；貧賤憂戚，庸玉女於成也。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://facaiy.github.io" # the base hostname & protocol for your site
-twitter_username: yfcoldfire
-github_username:  facaiy
+url: "https://aiqiyin.github.io" # the base hostname & protocol for your site
+github_username: AIQiYin
 
 # Build settings
 markdown: kramdown
