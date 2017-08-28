@@ -19,6 +19,7 @@ permalink: /about/
 
 + 职业 - [LinkedIn (领英)](https://www.linkedin.com/in/facaiy)
 + 生活 - [豆瓣](https://www.douban.com/people/facaiy/)
++ 博客 - [csdn](https://www.csdn.com) 
 
 
 <br/>
