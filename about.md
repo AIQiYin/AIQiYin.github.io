@@ -17,23 +17,9 @@ permalink: /about/
 
 联系我：
 
-+ 职业 - [LinkedIn (领英)](https://www.linkedin.com/in/facaiy)
-+ 生活 - [豆瓣](https://www.douban.com/people/facaiy/)
++ 职业 - [LinkedIn (领英)](https://www.linkedin.com/)
 + 博客 - [csdn](https://www.csdn.com) 
 
 
-<br/>
 
-#### 附录
 
-1. 开源贡献：
-
-   + [apache/spark](https://github.com/apache/spark): 2.0; 2.1; 2.2; 2.3;
-   + [Tencent/angel](https://github.com/Tencent/angel): 1.0.0;
-   + [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): 0.18;
-   + [pandas-dev/pandas](https://github.com/pandas-dev/pandas): 0.18; 0.19;
-
-2. 会议与讲演：
-
-   + 2017-05，基于Spark的大规模机器学习在微博的应用（协作者，受邀请方），中国云计算大会，CCTC。
-   + 2017-03，树模型的进化之路（演讲者），机器学习研发大部门，新浪微博。
