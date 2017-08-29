@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Blog"
+title: "My Hard Disk Is Broken"
 description: ""
 category: life
 tags: []
