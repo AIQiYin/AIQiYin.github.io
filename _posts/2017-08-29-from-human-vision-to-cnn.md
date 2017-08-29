@@ -2,7 +2,7 @@
 layout: post
 title: "人类视觉分类是怎样的"
 description: ""
-category: mics
+category: mix
 tags: []
 modify: 2017-08-29 18:23:19
 ---
